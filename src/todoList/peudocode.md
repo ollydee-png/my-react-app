@@ -10,7 +10,6 @@
 - An icon library.
 
 #### Steps
-
 1. Create the skeletal structure of the app
 2. Build modules/reusable components
 3. Create React states
